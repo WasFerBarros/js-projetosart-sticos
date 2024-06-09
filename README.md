@@ -1,1 +1,1 @@
-# js-projetosart-sticos
+# js-projetosartisticos
